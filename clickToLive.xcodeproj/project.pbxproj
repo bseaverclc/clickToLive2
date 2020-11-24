@@ -17,7 +17,6 @@
 		D320D36F24218A96000B81B1 /* StoreViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D320D36E24218A96000B81B1 /* StoreViewController.swift */; };
 		D3367D772448AADB00825C5B /* AlertControllerExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3367D762448AADB00825C5B /* AlertControllerExtension.swift */; };
 		D397C6D824300D80008FE3DC /* DirectionsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D397C6D724300D80008FE3DC /* DirectionsViewController.swift */; };
-		D397C6DA2436D02C008FE3DC /* tickingClock.wav in Resources */ = {isa = PBXBuildFile; fileRef = D397C6D92436D02C008FE3DC /* tickingClock.wav */; };
 		D397C6DC2436D1F6008FE3DC /* tick.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D397C6DB2436D1F6008FE3DC /* tick.mp3 */; };
 		D3DC9A8E242D7D48003C0AF2 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3DC9A8D242D7D48003C0AF2 /* HomeViewController.swift */; };
 		D3DC9A90242E2E72003C0AF2 /* bicycleBell.wav in Resources */ = {isa = PBXBuildFile; fileRef = D3DC9A8F242E2E72003C0AF2 /* bicycleBell.wav */; };
@@ -42,7 +41,6 @@
 		D320D36E24218A96000B81B1 /* StoreViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoreViewController.swift; sourceTree = "<group>"; };
 		D3367D762448AADB00825C5B /* AlertControllerExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertControllerExtension.swift; sourceTree = "<group>"; };
 		D397C6D724300D80008FE3DC /* DirectionsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DirectionsViewController.swift; sourceTree = "<group>"; };
-		D397C6D92436D02C008FE3DC /* tickingClock.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = tickingClock.wav; sourceTree = "<group>"; };
 		D397C6DB2436D1F6008FE3DC /* tick.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = tick.mp3; sourceTree = "<group>"; };
 		D3DC9A8D242D7D48003C0AF2 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
 		D3DC9A8F242E2E72003C0AF2 /* bicycleBell.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = bicycleBell.wav; sourceTree = "<group>"; };
@@ -101,7 +99,6 @@
 				D397C6DB2436D1F6008FE3DC /* tick.mp3 */,
 				D3DC9A97242E36C5003C0AF2 /* timer.wav */,
 				D3DC9A95242E36BD003C0AF2 /* gasp.wav */,
-				D397C6D92436D02C008FE3DC /* tickingClock.wav */,
 				D3DC9A99242E467C003C0AF2 /* applause.wav */,
 				D3DC9A9A242E467C003C0AF2 /* bomb.wav */,
 				D3DC9A93242E351E003C0AF2 /* trumpet.wav */,
@@ -174,7 +171,6 @@
 				D320D35F24217B92000B81B1 /* Main.storyboard in Resources */,
 				D397C6DC2436D1F6008FE3DC /* tick.mp3 in Resources */,
 				D3DC9A96242E36BD003C0AF2 /* gasp.wav in Resources */,
-				D397C6DA2436D02C008FE3DC /* tickingClock.wav in Resources */,
 				D3DC9A94242E351E003C0AF2 /* trumpet.wav in Resources */,
 				D3DC9A98242E36C5003C0AF2 /* timer.wav in Resources */,
 				D3DC9A92242E32EB003C0AF2 /* doorbell.wav in Resources */,
